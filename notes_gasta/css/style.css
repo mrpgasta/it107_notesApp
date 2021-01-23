@@ -1,0 +1,36 @@
+.heading{
+    text-align: center;
+    margin-top: 5rem;
+}
+li{
+    list-style: none;
+}
+.notes_list{
+    padding: 2%;
+}
+.note{
+    margin: 1%;
+}
+.frm{
+    border: solid gray 1px;
+    width: 20%;
+    border-radius: 5px;
+    margin: auto;
+    padding: 5px;
+}
+button{
+    padding: 5px;
+}
+a{
+    text-decoration: none;
+}
+.head1{
+    text-align: center;
+    background-color: grey;
+    margin: 0px 0px 20px 0px;
+}
+.index_btn{
+    margin-top: 3rem;
+    margin-left: 80rem;
+}
+
